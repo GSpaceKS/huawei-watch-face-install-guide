@@ -19,7 +19,7 @@
 2. 按F12，顶部切换到 `Network` 选项卡，点击 `Fetch/XHR`，找到 `getHomeData` 
 
 <p align="center">
-  <img src="img/step1_1.jpg" alt="截图" width="400">
+  <img src="img/Step1_1.jpg" alt="截图" width="400">
   <br>
   <sub>如图所示</sub>
 </p>
@@ -27,7 +27,7 @@
 3. 单击 `getHomeData`，然后在弹出来的页面任意位置点击一下，然后按 `Ctrl` + `F` 搜索 `UserId` 。将后面的一串数字保留备用 *（浏览器先别关，保持登录状态。因为我测试了一下，貌似如果不这样会连接失败。包括后续如果想重连也先登录一下然后再去重连）*
 
 <p align="center">
-  <img src="img/step1_2.jpg" alt="截图" width="400">
+  <img src="img/Step1_2.jpg" alt="截图" width="400">
   <br>
   <sub>如图所示</sub>
 </p>
@@ -40,7 +40,7 @@
 2. 打开 `Gadgetbridge` 添加设备 ⚠**不要直接点击连接，需要先 *长按* 需要连接的设备，然后选择 `认证设置` ，进入到下一页面选择 `华为账号` ，然后将刚刚获取到的 `UserId` 填入。保存好之后退到连接页面点击连接手表等待连接即可**
 
 <p align="center">
-  <img src="img/step2.jpg" alt="截图" width="400">
+  <img src="img/Step2.jpg" alt="截图" width="400">
   <br>
   <sub>如图所示</sub>
 </p>
