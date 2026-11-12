@@ -66,7 +66,8 @@
 ---
 
 ### 实测
-Watch 5 (HarmonyOS 6.1.0.330 SP22)   
+Watch 5 (HarmonyOS 6.1.0.330 SP22)  
+Watch 5 (HarmonyOS 7.0.0.107 SP25)  
 Gadgetbridge 0.92.2
 
 <p align="center">
